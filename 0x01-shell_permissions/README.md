@@ -52,7 +52,7 @@
   julien@ubuntu:/tmp/h$
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -70,7 +70,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -88,7 +88,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -113,7 +113,7 @@
   julien@ubuntu:/tmp/h$
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -124,7 +124,7 @@
 **4. Empty!**
 - Write a script that creates an empty file called `hello`.
 <br></br>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -152,7 +152,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -178,7 +178,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -205,7 +205,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -234,7 +234,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -255,7 +255,7 @@
   -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -285,7 +285,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -317,7 +317,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -349,7 +349,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -383,7 +383,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -416,7 +416,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -445,7 +445,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -471,7 +471,7 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
@@ -482,7 +482,7 @@
 **17. Star Wars**
 - Write a script that will play the StarWars IV episode in the terminal.
 <br></br>
-<hr>
+</hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
