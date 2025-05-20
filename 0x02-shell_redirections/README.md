@@ -34,7 +34,7 @@
 	- [26. The biggest fan](#26)
 ---
 ## Author Details
-- *Dean Robin Otsyeno - deanrobin777@gmail.com*
+- *a41s*
 
 ## Project Description
 - Allowed editors: `vi`, `vim`, `emacs`
