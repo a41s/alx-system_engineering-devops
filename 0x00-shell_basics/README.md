@@ -27,7 +27,7 @@
 	- [19. File type: School](#19)
 ---
 ## Author Details
-- *Amr Sal*
+- *a41s*
 
 ## Project Description
 - Allowed editors: `vi`, `vim`, `emacs`
