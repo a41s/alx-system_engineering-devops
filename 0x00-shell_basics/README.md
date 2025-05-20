@@ -66,10 +66,12 @@
 <br></br>
   Example:
   <pre>
-$ ./1-listit
-Applications    Documents   Dropbox Movies Pictures
-Desktop Downloads   Library Music Public
-$
+  	<code class="language-bash">
+	$ ./1-listit
+	Applications    Documents   Dropbox Movies Pictures
+	Desktop Downloads   Library Music Public
+	$
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -85,14 +87,16 @@ $
 <br></br>
   Example:
   <pre>
-julien@ubuntu:/tmp$ pwd
-/tmp
-julien@ubuntu:/tmp$ echo $HOME
-/home/julien
-julien@ubuntu:/tmp$ source ./2-bring_me_home
-julien@ubuntu:~$ pwd
-/home/julien
-julien@ubuntu:~$ 
+  	<code class="language-bash">
+	julien@ubuntu:/tmp$ pwd
+	/tmp
+	julien@ubuntu:/tmp$ echo $HOME
+	/home/julien
+	julien@ubuntu:/tmp$ source ./2-bring_me_home
+	julien@ubuntu:~$ pwd
+	/home/julien
+	julien@ubuntu:~$ 
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -106,13 +110,15 @@ julien@ubuntu:~$
 <br></br>
   Example:
   <pre>
-$ ./3-listfiles
-total 32
--rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:19 0-current_working_directory
--rwxr-xr-x@ 1 sylvain staff 19 Jan 25 00:23 1-listit
--rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:29 2-bring_me_home
--rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:39 3-listfiles
-$
+ 	<code class="language-bash">
+	$ ./3-listfiles
+	total 32
+	-rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:19 0-current_working_directory
+	-rwxr-xr-x@ 1 sylvain staff 19 Jan 25 00:23 1-listit
+	-rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:29 2-bring_me_home
+	-rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:39 3-listfiles
+	$
+ 	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -126,16 +132,18 @@ $
 <br></br>
   Example:
   <pre>
-$ ./4-listmorefiles
-total 32
-drwxr-xr-x@ 6 sylvain staff 204 Jan 25 00:29 .
-drwxr-xr-x@ 43 sylvain staff 1462 Jan 25 00:19 ..
--rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:19 0-current_working_directory
--rwxr-xr-x@ 1 sylvain staff 19 Jan 25 00:23 1-listit
--rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:29 2-bring_me_home
--rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:39 3-listfiles
--rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:41 4-listmorefiles
-$
+ 	<code class="language-bash">
+	$ ./4-listmorefiles
+	total 32
+	drwxr-xr-x@ 6 sylvain staff 204 Jan 25 00:29 .
+	drwxr-xr-x@ 43 sylvain staff 1462 Jan 25 00:19 ..
+	-rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:19 0-current_working_directory
+	-rwxr-xr-x@ 1 sylvain staff 19 Jan 25 00:23 1-listit
+	-rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:29 2-bring_me_home
+	-rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:39 3-listfiles
+	-rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:41 4-listmorefiles
+	$
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -153,17 +161,19 @@ $
 <br></br>
   Example:
   <pre>
-$ ./5-listfilesdigitonly
-total 32
-drwxr-xr-x@ 6 501 20 204 Jan 25 00:29 .
-drwxr-xr-x@ 43 501 20 1462 Jan 25 00:19 ..
--rwxr-xr-x@ 1 501 20 18 Jan 25 00:19 0-current_working_directory
--rwxr-xr-x@ 1 501 20 18 Jan 25 00:23 1-listfiles
--rwxr-xr-x@ 1 501 20 19 Jan 25 00:29 2-bring_me_home
--rwxr-xr-x@ 1 501 20 20 Jan 25 00:39 3-listfiles
--rwxr-xr-x@ 1 501 20 18 Jan 25 00:41 4-listmorefiles
--rwxr-xr-x@ 1 501 20 18 Jan 25 00:43 5-listfilesdigitonly
-$
+  	<code class="language-bash">
+	$ ./5-listfilesdigitonly
+	total 32
+	drwxr-xr-x@ 6 501 20 204 Jan 25 00:29 .
+	drwxr-xr-x@ 43 501 20 1462 Jan 25 00:19 ..
+	-rwxr-xr-x@ 1 501 20 18 Jan 25 00:19 0-current_working_directory
+	-rwxr-xr-x@ 1 501 20 18 Jan 25 00:23 1-listfiles
+	-rwxr-xr-x@ 1 501 20 19 Jan 25 00:29 2-bring_me_home
+	-rwxr-xr-x@ 1 501 20 20 Jan 25 00:39 3-listfiles
+	-rwxr-xr-x@ 1 501 20 18 Jan 25 00:41 4-listmorefiles
+	-rwxr-xr-x@ 1 501 20 18 Jan 25 00:43 5-listfilesdigitonly
+	$
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -177,10 +187,12 @@ $
 <br></br>
   Example:
   <pre>
-$ ./6-firstdirectory
-$ file /tmp/my_first_directory/
-/tmp/my_first_directory/: directory
-$
+	<code class="language-bash">
+	$ ./6-firstdirectory
+	$ file /tmp/my_first_directory/
+	/tmp/my_first_directory/: directory
+	$
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -194,10 +206,12 @@ $
 <br></br>
   Example:
   <pre>
-$ ./7-movethatfile
-$ ls /tmp/my_first_directory/
-betty
-$
+	<code class="language-bash">
+	$ ./7-movethatfile
+	$ ls /tmp/my_first_directory/
+	betty
+	$
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -212,9 +226,11 @@ $
 <br></br>
   Example:
   <pre>
-$ ./8-firstdelete
-$ ls /tmp/my_first_directory/
-$
+  	<code class="language-bash">
+	$ ./8-firstdelete
+	$ ls /tmp/my_first_directory/
+	$
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -228,10 +244,12 @@ $
 <br></br>
   Example:
   <pre>
-$ ./9-firstdirdeletion
-$ file /tmp/my_first_directory
-/tmp/my_first_directory: cannot open `/tmp/my_first_directory' (No such file or directory)
-$
+  	<code class="language-bash">
+	$ ./9-firstdirdeletion
+	$ file /tmp/my_first_directory
+	/tmp/my_first_directory: cannot open `/tmp/my_first_directory' (No such file or directory)
+	$
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -245,15 +263,17 @@ $
 <br></br>
   Example:
   <pre>
-julien@ubuntu:/tmp$ pwd
-/tmp
-julien@ubuntu:/tmp$ cd /var
-julien@ubuntu:/var$ pwd
-/var
-julien@ubuntu:/var$ source ./10-back
-/tmp
-julien@ubuntu:/tmp$ pwd
-/tmp
+  	<code class="language-bash">
+	julien@ubuntu:/tmp$ pwd
+	/tmp
+	julien@ubuntu:/tmp$ cd /var
+	julien@ubuntu:/var$ pwd
+	/var
+	julien@ubuntu:/var$ source ./10-back
+	/tmp
+	julien@ubuntu:/tmp$ pwd
+	/tmp
+  	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -278,9 +298,11 @@ julien@ubuntu:/tmp$ pwd
 <br></br>
   Example:
   <pre>
-ubuntu@ip-172-31-63-244:~$ ./12-file_type
-/tmp/iamafile: ELF 64-bit LSB  executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.24, BuildID[sha1]=bd39c07194a778ccc066fc963ca152bdfaa3f971, stripped
-  </pre>
+  	<code class="language-bash">
+	ubuntu@ip-172-31-63-244:~$ ./12-file_type
+	/tmp/iamafile: ELF 64-bit LSB  executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.24, BuildID[sha1]=bd39c07194a778ccc066fc963ca152bdfaa3f971, stripped
+	</code>
+</pre>
   Note that depending on the file, the output of your script will be different.
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -294,16 +316,18 @@ ubuntu@ip-172-31-63-244:~$ ./12-file_type
 <br></br>
   Example:
   <pre>
-ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la
-total 144
-drwxrwxr-x  2 ubuntu ubuntu   4096 Sep 20 03:24 .
-drwxrwxrwt 12 root   root   139264 Sep 20 03:24 ..
-ubuntu@ip-172-31-63-244:/tmp/sym$./13-symbolic_link
-ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la
-total 144
-drwxrwxr-x  2 ubuntu ubuntu   4096 Sep 20 03:24 .
-drwxrwxrwt 12 root   root   139264 Sep 20 03:24 ..
-lrwxrwxrwx  1 ubuntu ubuntu      7 Sep 20 03:24 __ls__ -> /bin/ls
+	  <code class="language-bash">
+	ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la
+	total 144
+	drwxrwxr-x  2 ubuntu ubuntu   4096 Sep 20 03:24 .
+	drwxrwxrwt 12 root   root   139264 Sep 20 03:24 ..
+	ubuntu@ip-172-31-63-244:/tmp/sym$./13-symbolic_link
+	ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la
+	total 144
+	drwxrwxr-x  2 ubuntu ubuntu   4096 Sep 20 03:24 .
+	drwxrwxrwt 12 root   root   139264 Sep 20 03:24 ..
+	lrwxrwxrwx  1 ubuntu ubuntu      7 Sep 20 03:24 __ls__ -> /bin/ls
+	  </code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -330,31 +354,33 @@ lrwxrwxrwx  1 ubuntu ubuntu      7 Sep 20 03:24 __ls__ -> /bin/ls
 <br></br>
   Example:
   <pre>
-ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la
-total 148
-drwxrwxr-x  3 ubuntu ubuntu   4096 Sep 20 03:33 .
-drwxrwxrwt 12 root   root   139264 Sep 20 03:26 ..
--rw-rw-r--  1 ubuntu ubuntu      0 Sep 20 03:32 My_file
-lrwxrwxrwx  1 ubuntu ubuntu      7 Sep 20 03:24 __ls__ -> /bin/ls
--rw-rw-r--  1 ubuntu ubuntu      0 Sep 20 03:32 Elif_ym
--rw-rw-r--  1 ubuntu ubuntu      0 Sep 20 03:32 random_file
-ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la /tmp/u
-total 8
-drwxrwxr-x 2 ubuntu ubuntu 4096 Sep 20 03:33 .
-drwxrwxr-x 3 ubuntu ubuntu 4096 Sep 20 03:33 ..
-ubuntu@ip-172-31-63-244:/tmp/sym$ ./100-lets_move
-ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la
-total 148
-drwxrwxr-x  3 ubuntu ubuntu   4096 Sep 20 03:33 .
-drwxrwxrwt 12 root   root   139264 Sep 20 03:26 ..
-lrwxrwxrwx  1 ubuntu ubuntu      7 Sep 20 03:24 __ls__ -> /bin/ls
--rw-rw-r--  1 ubuntu ubuntu      0 Sep 20 03:32 random_file
-ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la /tmp/u
-total 8
-drwxrwxr-x 2 ubuntu ubuntu 4096 Sep 20 03:33 .
-drwxrwxr-x 3 ubuntu ubuntu 4096 Sep 20 03:33 ..
--rw-rw-r-- 1 ubuntu ubuntu    0 Sep 20 03:32 My_file
--rw-rw-r-- 1 ubuntu ubuntu    0 Sep 20 03:32 Elif_ym
+  	<code class="language-bash">
+	ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la
+	total 148
+	drwxrwxr-x  3 ubuntu ubuntu   4096 Sep 20 03:33 .
+	drwxrwxrwt 12 root   root   139264 Sep 20 03:26 ..
+	-rw-rw-r--  1 ubuntu ubuntu      0 Sep 20 03:32 My_file
+	lrwxrwxrwx  1 ubuntu ubuntu      7 Sep 20 03:24 __ls__ -> /bin/ls
+	-rw-rw-r--  1 ubuntu ubuntu      0 Sep 20 03:32 Elif_ym
+	-rw-rw-r--  1 ubuntu ubuntu      0 Sep 20 03:32 random_file
+	ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la /tmp/u
+	total 8
+	drwxrwxr-x 2 ubuntu ubuntu 4096 Sep 20 03:33 .
+	drwxrwxr-x 3 ubuntu ubuntu 4096 Sep 20 03:33 ..
+	ubuntu@ip-172-31-63-244:/tmp/sym$ ./100-lets_move
+	ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la
+	total 148
+	drwxrwxr-x  3 ubuntu ubuntu   4096 Sep 20 03:33 .
+	drwxrwxrwt 12 root   root   139264 Sep 20 03:26 ..
+	lrwxrwxrwx  1 ubuntu ubuntu      7 Sep 20 03:24 __ls__ -> /bin/ls
+	-rw-rw-r--  1 ubuntu ubuntu      0 Sep 20 03:32 random_file
+	ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la /tmp/u
+	total 8
+	drwxrwxr-x 2 ubuntu ubuntu 4096 Sep 20 03:33 .
+	drwxrwxr-x 3 ubuntu ubuntu 4096 Sep 20 03:33 ..
+	-rw-rw-r-- 1 ubuntu ubuntu    0 Sep 20 03:32 My_file
+	-rw-rw-r-- 1 ubuntu ubuntu    0 Sep 20 03:32 Elif_ym
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -368,12 +394,14 @@ drwxrwxr-x 3 ubuntu ubuntu 4096 Sep 20 03:33 ..
 <br></br>
   Example:
   <pre>
-ubuntu@ip-172-31-63-244:/tmp/sym$ ls
-main.c  main.c~  Makefile~
-ubuntu@ip-172-31-63-244:/tmp/sym$ ./101-clean_emacs
-ubuntu@ip-172-31-63-244:/tmp/emacs$ ls
-main.c
-ubuntu@ip-172-31-63-244:/tmp/emacs$
+  	<code class="language-bash">
+	ubuntu@ip-172-31-63-244:/tmp/sym$ ls
+	main.c  main.c~  Makefile~
+	ubuntu@ip-172-31-63-244:/tmp/sym$ ./101-clean_emacs
+	ubuntu@ip-172-31-63-244:/tmp/emacs$ ls
+	main.c
+	ubuntu@ip-172-31-63-244:/tmp/emacs$
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -388,24 +416,26 @@ ubuntu@ip-172-31-63-244:/tmp/emacs$
 <br></br>
   Example:
   <pre>
-julien@ubuntu:/tmp/h$ ls -l
-total 4
--rwxrw-r-- 1 julien julien 44 Sep 20 12:09 102-tree
-julien@ubuntu:/tmp/h$ wc -l 102-tree 
-2 102-tree
-julien@ubuntu:/tmp/h$ head -1 102-tree 
-#!/bin/bash
-julien@ubuntu:/tmp/h$ tr -cd ' ' < 102-tree | wc -c # you do not have to understand this yet, but the result should be 2, 1 or 0
-2
-julien@ubuntu:/tmp/h$ ./102-tree 
-julien@ubuntu:/tmp/h$ ls
-102-tree  welcome
-julien@ubuntu:/tmp/h$ ls welcome/
-to
-julien@ubuntu:/tmp/h$ ls -l welcome/to
-total 4
-drwxrwxr-x 2 julien julien 4096 Sep 20 12:11 school
-julien@ubuntu:/tmp/h$ 
+ 	<code class="language-bash">
+	julien@ubuntu:/tmp/h$ ls -l
+	total 4
+	-rwxrw-r-- 1 julien julien 44 Sep 20 12:09 102-tree
+	julien@ubuntu:/tmp/h$ wc -l 102-tree 
+	2 102-tree
+	julien@ubuntu:/tmp/h$ head -1 102-tree 
+	#!/bin/bash
+	julien@ubuntu:/tmp/h$ tr -cd ' ' < 102-tree | wc -c # you do not have to understand this yet, but the result should be 2, 1 or 0
+	2
+	julien@ubuntu:/tmp/h$ ./102-tree 
+	julien@ubuntu:/tmp/h$ ls
+	102-tree  welcome
+	julien@ubuntu:/tmp/h$ ls welcome/
+	to
+	julien@ubuntu:/tmp/h$ ls -l welcome/to
+	total 4
+	drwxrwxr-x 2 julien julien 4096 Sep 20 12:11 school
+	julien@ubuntu:/tmp/h$
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -425,15 +455,17 @@ julien@ubuntu:/tmp/h$
 <br></br>
   Example:
   <pre>
-ubuntu@ubuntu:~/$ ls -a
-
-.  ..  0-commas  0-commas-checks  1-empty_casks  2-gifs  3-directories  4-zeros  5-rot13  6-odd  7-sort_rot13  Makefile  quote  .test  test_dir  test.var
-
-ubuntu@ubuntu:~/$ ./103-commas
-
-./, ../, 0-commas, 0-commas-checks/, 1-empty_casks, 2-gifs, 3-directories, 4-zeros, 5-rot13, 6-odd, 7-sort_rot13, Makefile, quote, .test, test_dir/, test.var
-
-ubuntu@ubuntu:~/$
+	<code class="language-bash">
+	ubuntu@ubuntu:~/$ ls -a
+	
+	.  ..  0-commas  0-commas-checks  1-empty_casks  2-gifs  3-directories  4-zeros  5-rot13  6-odd  7-sort_rot13  Makefile  quote  .test  test_dir  test.var
+	
+	ubuntu@ubuntu:~/$ ./103-commas
+	
+	./, ../, 0-commas, 0-commas-checks/, 1-empty_casks, 2-gifs, 3-directories, 4-zeros, 5-rot13, 6-odd, 7-sort_rot13, Makefile, quote, .test, test_dir/, test.var
+	
+	ubuntu@ubuntu:~/$
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
@@ -447,26 +479,28 @@ ubuntu@ubuntu:~/$
 <br></br>
   Example:
   <pre>
-ubuntu@ip-172-31-63-244:/tmp/magic$ cp /bin/ls .
-ubuntu@ip-172-31-63-244:/tmp/magic$ ls -la
-total 268
-drwxrwxr-x  2 ubuntu ubuntu   4096 Sep 20 02:44 .
-drwxrwxrwt 11 root   root   139264 Sep 20 02:44 ..
--rw-r--r--  1 ubuntu ubuntu    496 Sep 20 02:42 school.mgc
--rwxr-xr-x  1 ubuntu ubuntu 110080 Sep 20 02:43 ls
--rw-rw-r--  1 ubuntu ubuntu     50 Sep 20 02:06 thisisaschoolfile
--rw-rw-r--  1 ubuntu ubuntu     30 Sep 20 02:16 thisisatextfile
-ubuntu@ip-172-31-63-244:/tmp/magic$ file --mime-type -m school.mgc *
-school.mgc:         application/octet-stream
-ls:                    application/octet-stream
-thisisaschoolfile: School
-thisisatextfile:       text/plain
-ubuntu@ip-172-31-63-244:/tmp/magic$ file -m school.mgc *
-school.mgc:         data
-ls:                    data
-thisisaschoolfile: School data
-thisisatextfile:       ASCII text
-ubuntu@ip-172-31-63-244:/tmp/magic$
+  	<code class="language-bash">
+	ubuntu@ip-172-31-63-244:/tmp/magic$ cp /bin/ls .
+	ubuntu@ip-172-31-63-244:/tmp/magic$ ls -la
+	total 268
+	drwxrwxr-x  2 ubuntu ubuntu   4096 Sep 20 02:44 .
+	drwxrwxrwt 11 root   root   139264 Sep 20 02:44 ..
+	-rw-r--r--  1 ubuntu ubuntu    496 Sep 20 02:42 school.mgc
+	-rwxr-xr-x  1 ubuntu ubuntu 110080 Sep 20 02:43 ls
+	-rw-rw-r--  1 ubuntu ubuntu     50 Sep 20 02:06 thisisaschoolfile
+	-rw-rw-r--  1 ubuntu ubuntu     30 Sep 20 02:16 thisisatextfile
+	ubuntu@ip-172-31-63-244:/tmp/magic$ file --mime-type -m school.mgc *
+	school.mgc:         application/octet-stream
+	ls:                    application/octet-stream
+	thisisaschoolfile: School
+	thisisatextfile:       text/plain
+	ubuntu@ip-172-31-63-244:/tmp/magic$ file -m school.mgc *
+	school.mgc:         data
+	ls:                    data
+	thisisaschoolfile: School data
+	thisisatextfile:       ASCII text
+	ubuntu@ip-172-31-63-244:/tmp/magic$
+	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
