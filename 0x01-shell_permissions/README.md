@@ -52,12 +52,12 @@
   julien@ubuntu:/tmp/h$
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `0-iam_betty`
 ---
+
 #### 1
 ###### [Table of Contents](#table-of-contents)
 **1. Who am I**
@@ -70,12 +70,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `1-who_am_i`
 ---
+
 #### 2
 ###### [Table of Contents](#table-of-contents)
 **2. Groups**
@@ -88,12 +88,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `2-groups`
 ---
+
 #### 3
 ###### [Table of Contents](#table-of-contents)
 **3. New owner**
@@ -113,23 +113,23 @@
   julien@ubuntu:/tmp/h$
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `3-new_owner`
 ---
+
 #### 4
 ###### [Table of Contents](#table-of-contents)
 **4. Empty!**
 - Write a script that creates an empty file called `hello`.
 <br></br>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `4-empty`
 ---
+
 #### 5
 ###### [Table of Contents](#table-of-contents)
 **5. Execute**
@@ -152,12 +152,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `5-execute`
 ---
+
 #### 6
 ###### [Table of Contents](#table-of-contents)
 **6. Multiple permissions**
@@ -178,12 +178,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `6-multiple_permissions`
 ---
+
 #### 7
 ###### [Table of Contents](#table-of-contents)
 **7. Everybody!**
@@ -205,12 +205,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `7-everybody`
 ---
+
 #### 8
 ###### [Table of Contents](#table-of-contents)
 **8. James Bond**
@@ -234,12 +234,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `8-James_Bond`
 ---
+
 #### 9
 ###### [Table of Contents](#table-of-contents)
 **9. John Doe**
@@ -255,12 +255,12 @@
   -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `9-John_Doe`
 ---
+
 #### 10
 ###### [Table of Contents](#table-of-contents)
 **10. Look in the mirror**
@@ -285,12 +285,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `10-mirror_permissions`
 ---
+
 #### 11
 ###### [Table of Contents](#table-of-contents)
 **11. Directories**
@@ -317,12 +317,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `11-directories_permissions`
 ---
+
 #### 12
 ###### [Table of Contents](#table-of-contents)
 **12. More directories**
@@ -349,12 +349,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `12-directory_permissions`
 ---
+
 #### 13
 ###### [Table of Contents](#table-of-contents)
 **13. Change group**
@@ -383,12 +383,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `13-change_group`
 ---
+
 #### 14
 ###### [Table of Contents](#table-of-contents)
 **14. Owner and group**
@@ -416,12 +416,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `100-change_owner_and_group`
 ---
+
 #### 15
 ###### [Table of Contents](#table-of-contents)
 **15. Symbolic links**
@@ -445,12 +445,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `101-symbolic_link_permissions`
 ---
+
 #### 16
 ###### [Table of Contents](#table-of-contents)
 **16. If only**
@@ -471,12 +471,12 @@
   julien@ubuntu:/tmp/h$ 
   </code>
 </pre>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
     - File: `102-if_only`
 ---
+
 #### 17
 ###### [Table of Contents](#table-of-contents)
 **17. Star Wars**
