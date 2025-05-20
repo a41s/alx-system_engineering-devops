@@ -11,22 +11,21 @@ Keyboard shortcuts for Bash
 LTS
 Shebang
 ### man or help:
-`
-cd
-ls
-pwd
-less
-file
-ln
-cp
-mv
-rm
-mkdir
-type
-which
-help
-man
-`
+`cd`
+`ls`
+`pwd`
+`less`
+`file`
+`ln`
+`cp`
+`mv`
+`rm`
+`mkdir`
+`type`
+`which`
+`help`
+`man`
+
 # Project 
 ## **0x00. Shell, basics**
 ---
