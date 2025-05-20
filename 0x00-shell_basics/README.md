@@ -48,11 +48,11 @@
 <br></br>
   Example:
   <pre>
-  <code class="language-bash">
-$ ./0-current_working_directory
-/root/alx-system_engineering-devops/0x00-shell_basics
-$
-  </code>
+  	<code class="language-bash">
+	$ ./0-current_working_directory
+	/root/alx-system_engineering-devops/0x00-shell_basics
+	$
+  	</code>
   </pre>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
