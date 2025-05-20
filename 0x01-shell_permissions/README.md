@@ -482,7 +482,6 @@
 **17. Star Wars**
 - Write a script that will play the StarWars IV episode in the terminal.
 <br></br>
-<hr></hr>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x01-shell_permissions`
