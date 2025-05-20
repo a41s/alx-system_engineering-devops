@@ -1,3 +1,32 @@
+# Resources
+### Read or watch:
+What Is “The Shell”?
+Navigation
+Looking Around
+A Guided Tour
+Manipulating Files
+Working With Commands
+Reading Man pages
+Keyboard shortcuts for Bash
+LTS
+Shebang
+### man or help:
+`
+cd
+ls
+pwd
+less
+file
+ln
+cp
+mv
+rm
+mkdir
+type
+which
+help
+man
+`
 # Project 
 ## **0x00. Shell, basics**
 ---
@@ -87,7 +116,7 @@
 <br></br>
   Example:
   <pre>
-  	<code class="language-bash">
+  	<code>
 	julien@ubuntu:/tmp$ pwd
 	/tmp
 	julien@ubuntu:/tmp$ echo $HOME
@@ -110,7 +139,7 @@
 <br></br>
   Example:
   <pre>
- 	<code class="language-bash">
+ 	<code>
 	$ ./3-listfiles
 	total 32
 	-rwxr-xr-x@ 1 sylvain staff 18 Jan 25 00:19 0-current_working_directory
@@ -132,7 +161,7 @@
 <br></br>
   Example:
   <pre>
- 	<code class="language-bash">
+ 	<code>
 	$ ./4-listmorefiles
 	total 32
 	drwxr-xr-x@ 6 sylvain staff 204 Jan 25 00:29 .
@@ -161,7 +190,7 @@
 <br></br>
   Example:
   <pre>
-  	<code class="language-bash">
+  	<code>
 	$ ./5-listfilesdigitonly
 	total 32
 	drwxr-xr-x@ 6 501 20 204 Jan 25 00:29 .
@@ -187,7 +216,7 @@
 <br></br>
   Example:
   <pre>
-	<code class="language-bash">
+	<code>
 	$ ./6-firstdirectory
 	$ file /tmp/my_first_directory/
 	/tmp/my_first_directory/: directory
@@ -206,7 +235,7 @@
 <br></br>
   Example:
   <pre>
-	<code class="language-bash">
+	<code>
 	$ ./7-movethatfile
 	$ ls /tmp/my_first_directory/
 	betty
@@ -226,7 +255,7 @@
 <br></br>
   Example:
   <pre>
-  	<code class="language-bash">
+  	<code>
 	$ ./8-firstdelete
 	$ ls /tmp/my_first_directory/
 	$
@@ -244,7 +273,7 @@
 <br></br>
   Example:
   <pre>
-  	<code class="language-bash">
+  	<code>
 	$ ./9-firstdirdeletion
 	$ file /tmp/my_first_directory
 	/tmp/my_first_directory: cannot open `/tmp/my_first_directory' (No such file or directory)
@@ -263,7 +292,7 @@
 <br></br>
   Example:
   <pre>
-  	<code class="language-bash">
+  	<code>
 	julien@ubuntu:/tmp$ pwd
 	/tmp
 	julien@ubuntu:/tmp$ cd /var
@@ -298,7 +327,7 @@
 <br></br>
   Example:
   <pre>
-  	<code class="language-bash">
+  	<code>
 	ubuntu@ip-172-31-63-244:~$ ./12-file_type
 	/tmp/iamafile: ELF 64-bit LSB  executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.24, BuildID[sha1]=bd39c07194a778ccc066fc963ca152bdfaa3f971, stripped
 	</code>
@@ -316,7 +345,7 @@
 <br></br>
   Example:
   <pre>
-	  <code class="language-bash">
+	  <code>
 	ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la
 	total 144
 	drwxrwxr-x  2 ubuntu ubuntu   4096 Sep 20 03:24 .
@@ -354,7 +383,7 @@
 <br></br>
   Example:
   <pre>
-  	<code class="language-bash">
+  	<code>
 	ubuntu@ip-172-31-63-244:/tmp/sym$ ls -la
 	total 148
 	drwxrwxr-x  3 ubuntu ubuntu   4096 Sep 20 03:33 .
@@ -394,7 +423,7 @@
 <br></br>
   Example:
   <pre>
-  	<code class="language-bash">
+  	<code>
 	ubuntu@ip-172-31-63-244:/tmp/sym$ ls
 	main.c  main.c~  Makefile~
 	ubuntu@ip-172-31-63-244:/tmp/sym$ ./101-clean_emacs
@@ -416,7 +445,7 @@
 <br></br>
   Example:
   <pre>
- 	<code class="language-bash">
+ 	<code>
 	julien@ubuntu:/tmp/h$ ls -l
 	total 4
 	-rwxrw-r-- 1 julien julien 44 Sep 20 12:09 102-tree
@@ -455,7 +484,7 @@
 <br></br>
   Example:
   <pre>
-	<code class="language-bash">
+	<code>
 	ubuntu@ubuntu:~/$ ls -a
 	
 	.  ..  0-commas  0-commas-checks  1-empty_casks  2-gifs  3-directories  4-zeros  5-rot13  6-odd  7-sort_rot13  Makefile  quote  .test  test_dir  test.var
@@ -479,7 +508,7 @@
 <br></br>
   Example:
   <pre>
-  	<code class="language-bash">
+  	<code>
 	ubuntu@ip-172-31-63-244:/tmp/magic$ cp /bin/ls .
 	ubuntu@ip-172-31-63-244:/tmp/magic$ ls -la
 	total 268
