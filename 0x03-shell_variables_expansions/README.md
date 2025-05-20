@@ -25,7 +25,7 @@
 	- [17. I'm an instant star. Just add water and stir.](#17)
 ---
 ## Author Details
-- *Dean Robin Otsyeno - deanrobin777@gmail.com*
+- *a41s*
 
 ## Project Description
 - Allowed editors: `vi`, `vim`, `emacs`
