@@ -59,6 +59,7 @@
     - Directory: `0x00-shell_basics`
     - File: `0-current_working_directory`
 ---
+
 #### 1
 ###### [Table of Contents](#table-of-contents)
 **1. What’s in there?**
@@ -79,6 +80,7 @@
     - File: `1-listit`
 
 ---
+
 #### 2
 ###### [Table of Contents](#table-of-contents)
 **2. There is no place like home**
@@ -103,6 +105,7 @@
     - Directory: `0x00-shell_basics`
     - File: `2-bring_me_home`
 ---
+
 #### 3
 ###### [Table of Contents](#table-of-contents)
 **3. The long format**
@@ -125,6 +128,7 @@
     - Directory: `0x00-shell_basics`
     - File: `3-listfiles`
 ---
+
 #### 4
 ###### [Table of Contents](#table-of-contents)
 **4. Hidden files**
@@ -151,6 +155,7 @@
     - File: `4-listmorefiles`
 
 ---
+
 #### 5
 ###### [Table of Contents](#table-of-contents)
 **5. I love numbers**
@@ -180,6 +185,7 @@
     - Directory: `0x00-shell_basics`
     - File: `5-listfilesdigitonly`
 ---
+
 #### 6
 ###### [Table of Contents](#table-of-contents)
 **6. Welcome**
@@ -199,6 +205,7 @@
     - Directory: `0x00-shell_basics`
     - File: `6-firstdirectory`
 ---
+
 #### 7
 ###### [Table of Contents](#table-of-contents)
 **7. Betty in my first directory**
@@ -218,6 +225,7 @@
     - Directory: `0x00-shell_basics`
     - File: `7-movethatfile`
 ---
+
 #### 8
 ###### [Table of Contents](#table-of-contents)
 **8. Bye bye Betty**
@@ -237,6 +245,7 @@
     - Directory: `0x00-shell_basics`
     - File: `8-firstdelete`
 ---
+
 #### 9
 ###### [Table of Contents](#table-of-contents)
 **9. Bye bye My first directory**
@@ -256,6 +265,7 @@
     - Directory: `0x00-shell_basics`
     - File: `9-firstdirdeletion`
 ---
+
 #### 10
 ###### [Table of Contents](#table-of-contents)
 **10. Back to the future**
@@ -280,6 +290,7 @@
     - Directory: `0x00-shell_basics`
     - File: `10-back`
 ---
+
 #### 11
 ###### [Table of Contents](#table-of-contents)
 **11. Lists**
@@ -291,6 +302,7 @@
     - Directory: `0x00-shell_basics`
     - File: `11-lists`
 ---
+
 #### 12
 ###### [Table of Contents](#table-of-contents)
 **12. File type**
@@ -309,6 +321,7 @@
     - Directory: `0x00-shell_basics`
     - File: `12-file_type`
 ---
+
 #### 13
 ###### [Table of Contents](#table-of-contents)
 **13. We are symbols, and inhabit symbols**
@@ -334,6 +347,7 @@
     - Directory: `0x00-shell_basics`
     - File: `13-symbolic_link`
 ---
+
 #### 14
 ###### [Table of Contents](#table-of-contents)
 **14. Copy HTML files**
@@ -346,6 +360,7 @@
     - Directory: `0x00-shell_basics`
     - File: `14-copy_html`
 ---
+
 #### 15
 ###### [Table of Contents](#table-of-contents)
 **15. Let’s move**
@@ -387,6 +402,7 @@
     - Directory: `0x00-shell_basics`
     - File: `100-lets_move`
 ---
+
 #### 16
 ###### [Table of Contents](#table-of-contents)
 **16. Clean Emacs**
@@ -408,6 +424,7 @@
     - Directory: `0x00-shell_basics`
     - File: `101-clean_emacs`
 ---
+
 #### 17
 ###### [Table of Contents](#table-of-contents)
 **17. Tree**
@@ -442,6 +459,7 @@
     - Directory: `0x00-shell_basics`
     - File: `102-tree`
 ---
+
 #### 18
 ###### [Table of Contents](#table-of-contents)
 **18. Life is a series of commas, not periods**
@@ -472,6 +490,7 @@
     - Directory: `0x00-shell_basics`
     - File: `103-commas`
 ---
+
 #### 19
 ###### [Table of Contents](#table-of-contents)
 **19. File type: School**
@@ -507,9 +526,3 @@
     - Directory: `0x00-shell_basics`
     - File: `school.mgc`
 ---
-
-<br></br>
-<div align="right">
-  <sub style="font-style: italic"> Dean Robin Otsyeno - deanrobin777@gmail.com</sub>
-</div>
-
