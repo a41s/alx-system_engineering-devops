@@ -66,7 +66,7 @@
 <br></br>
   Example:
   <pre>
-  	<code class="language-bash">
+  	<code>
 	$ ./1-listit
 	Applications    Documents   Dropbox Movies Pictures
 	Desktop Downloads   Library Music Public
