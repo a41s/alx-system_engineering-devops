@@ -12,5 +12,5 @@ do
 	do
 		echo "$j"
 	done
-	((i++))
+	i=$((i+1))
 done
