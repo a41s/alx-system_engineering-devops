@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-./1-list_your_processes | grep 'bash'
+./1-list_your_processes | grep -w 'bash'
+
+# shellcheck disable=SC2009
